@@ -1,0 +1,21 @@
+package mypackage;
+
+import java.util.Scanner;
+
+public class CalculatorClass 
+{
+
+	public static void main(String[] args) 
+	{
+		int num1,num2;
+		Scanner sc=new Scanner(System.in);
+		System.out.println("Enter First Number:");
+		num1=sc.nextInt();
+		System.out.println("Enter Second Number:");
+		num2=sc.nextInt();
+		System.out.println("Arithmatic Operations of two numbers are:");
+		System.out.println("Addition of two numbers are:"+(num1+num2));
+
+	}
+
+}
