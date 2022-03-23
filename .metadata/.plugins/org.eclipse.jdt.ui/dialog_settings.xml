@@ -33,7 +33,11 @@
 			<item value="C:\KIRAN\ArithMaticCalculator Project\calculator.jar"/>
 		</list>
 		<list key="FatJarPackageWizardPage.ANTSCRIPT_LOCATION_HISTORY">
+			<item value="C:\KIRAN\ArithMaticCalculator Project.xml"/>
 			<item value=".xml"/>
 		</list>
+	</section>
+	<section name="NewPackageWizardPage">
+		<item key="create_package_info_java" value="false"/>
 	</section>
 </section>
